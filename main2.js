@@ -61,6 +61,21 @@ function call_api(a, category) {
 
     });
   }
+  if(a == 'AP07DV8710'){
+    set_html({
+      "owner_name":"Kaushik Mohanty",
+      "fitness_upto":"17 yrs",
+      "fuel_type":"petrol",
+      "brand_name":"HONDA",
+      "brand_model":"Activa",
+      "insurance_expiry":"4 yrs",
+      "engine_number":"987AD6E5",
+      "chassis_number":"091KQ4J5",
+      "registration_date":"12-03-2005",
+      "rto":"Jhansi - 284001"
+
+    });
+  }
   if(a == 'UP93BP1060'){
     set_html({
       "owner_name":"Harsh Vardhan",
